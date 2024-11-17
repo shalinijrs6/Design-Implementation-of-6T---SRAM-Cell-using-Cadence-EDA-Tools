@@ -5,8 +5,14 @@ Aim:
 To design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools, simulate its functionality, and analyze key performance parameters such as read/write operations, power consumption, and stability to understand its behavior in memory design.
 
 Tools Required:
+
 •	Personal Computer
 •	Cadence Virtuoso Software
+
+Circuit Diagram:
+
+![WhatsApp Image 2024-11-13 at 16 26 08_f5893cff](https://github.com/user-attachments/assets/3e5e545b-4d5b-4b41-90ba-31b1f899b31c)
+
 
 S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIMULATION -Commands to get into Cadence
 
